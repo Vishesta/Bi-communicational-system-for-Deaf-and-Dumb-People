@@ -5,7 +5,8 @@
 - Speech recognition using Google Speech API.
 - Text Preprocessing using NLP.
 - Dictionary based Machine Translation.
- -OpenCV for ISL letter recognition
+-OpenCV for ISL letter recognition
+-Convolution Neural Network Algorithm to classify sign language.
 
 ## To run the application.
 1. Open the Downloads folder and then open the terminal.
